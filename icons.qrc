@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/gender-0.png</file>
+        <file>icons/gender-1.png</file>
+        <file>icons/gender-2.png</file>
+    </qresource>
+</RCC>
